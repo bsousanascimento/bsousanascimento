@@ -3,7 +3,7 @@
  
 ### Olá, eu me chamo Bruno - bsousanascimento🤓
 ### Sou apaixonado por tecnologia, estou estudando para ser 
-### um desenvolvedor front-and!
+### um desenvolvedor front-end!
 ### Já chego lá...
 
 ![SKills](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
