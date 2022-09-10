@@ -1,10 +1,12 @@
 
 <a href="https://github.com/bsousanascimento/bsousanascimento/commit/f98797d495e02f3b5d5bd792224964f18bd6a18e"> <img src="20220619_225915_0000.png">
  
-### Olá, eu me chamo Bruno - bsousanascimento🤓
-### Sou apaixonado por tecnologia, estou estudando para ser 
-### um desenvolvedor front-end!
-### Já chego lá...
+####   Olá, me chamo Bruno, sou um amante de tecnologia, e estou procurando me desenvolver ainda mais, pois, busco sempre aprimorar meus conhecimentos. Me considero uma pessoa proativa, responsável, dedicada, com boa comunicação e relacionamento interpessoal.
+#### Atualmente curso Técnico em || Desenvolvimento de sistemas || pelo Institutivo Federal, e tenho um curso Técnico na área de|| Suporte a Informática ||. Possuo conhecimento nas tecnologias:
+#### Html || Css || Bootstrap || JavaScript || React || Git || evoluindo gradativamente. Atualmente estou aprimorando meu desenvolvimento WEB estudando: 
+#### || (ES6 (JavaScript Moderno) || PHP 7 || Orientação a Objetos || MySQL || PHP com PDO || Ajax || JQuery || MVC || APIs || IONIC || WordPress ||.
+#### Essa visão e prática, aliada ao princípio em que eu acredito, de que a educação é uma poderosa ferramenta de transformação social, que me motivou e me motiva a aprender mais sobre os conteúdos realmente relevantes para meu desenvolvimento.
+
 
 ![SKills](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 )
